@@ -1,0 +1,1 @@
+/Applications/Shoes.app/Contents/MacOS/shoes shoes/main.rb
